@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/VITASPORT/static/css/main.ff8c6ea7.css",
+    "main.js": "/VITASPORT/static/js/main.f779830c.js",
+    "static/media/bg.png": "/VITASPORT/static/media/bg.aa9add829b9ddaab15ca.png",
+    "static/media/woman.png": "/VITASPORT/static/media/woman.afe487a6399eecfa1aa7.png",
+    "static/media/img4.png": "/VITASPORT/static/media/img4.3f2b41a180f0b0e9b539.png",
+    "static/media/img3.png": "/VITASPORT/static/media/img3.76cafac0275672eee799.png",
+    "static/media/img1.png": "/VITASPORT/static/media/img1.a5400d538dc08bb9c485.png",
+    "static/media/logo-1.png": "/VITASPORT/static/media/logo-1.2b23323f6a55a8492c01.png",
+    "static/media/battle-rope.png": "/VITASPORT/static/media/battle-rope.f0e838feb90e5240e67b.png",
+    "static/media/fitness.png": "/VITASPORT/static/media/fitness.40c4aecb2995e4d21467.png",
+    "static/media/img2.png": "/VITASPORT/static/media/img2.f49950ea6082a8572af4.png",
+    "static/media/body-pump.png": "/VITASPORT/static/media/body-pump.db655530d82349eb4cbb.png",
+    "static/media/yoga.png": "/VITASPORT/static/media/yoga.e95806de96273a0c68d4.png",
+    "static/media/full-body.png": "/VITASPORT/static/media/full-body.88337db51a52afbb3ceb.png",
+    "static/media/resistance.png": "/VITASPORT/static/media/resistance.011df5b9669edc4f464d.png",
+    "static/media/boxing.png": "/VITASPORT/static/media/boxing.04062eac3922c5d3517d.png",
+    "static/media/calendar.svg": "/VITASPORT/static/media/calendar.316d9eb39b360280ca6b5027f5462a62.svg",
+    "static/media/price.svg": "/VITASPORT/static/media/price.99fc6d830c98a274d69675502dec0aac.svg",
+    "static/media/users-icn.svg": "/VITASPORT/static/media/users-icn.1c1181836b52f949c1de5db01fcd212e.svg",
+    "static/media/community-icn.svg": "/VITASPORT/static/media/community-icn.6ccf103bf065aaec1be8ea4cddcb9511.svg",
+    "static/media/question-mark.svg": "/VITASPORT/static/media/question-mark.ac78e0f4921dbec4cdd8586294a5bb5d.svg",
+    "static/media/chevron-right.svg": "/VITASPORT/static/media/chevron-right.54d3bc1c0ea6ec072a21.svg",
+    "static/media/bg.svg": "/VITASPORT/static/media/bg.e3dec2c236c3afaf8c8a.svg",
+    "static/media/chevron-left.svg": "/VITASPORT/static/media/chevron-left.7d0e8c34fcab2fb5f0bc.svg",
+    "index.html": "/VITASPORT/index.html",
+    "main.ff8c6ea7.css.map": "/VITASPORT/static/css/main.ff8c6ea7.css.map",
+    "main.f779830c.js.map": "/VITASPORT/static/js/main.f779830c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8c6ea7.css",
+    "static/js/main.f779830c.js"
+  ]
+}
